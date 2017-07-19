@@ -353,6 +353,12 @@ ISR(TIMER1_COMPA_vect)
 #ifdef A_AXIS
         st.counter_a = st.counter_x;
 #endif
+#ifdef B_AXIS
+          st.counter_b = st.counter_x;
+#endif
+#ifdef C_AXIS
+          st.counter_c = st.counter_x;
+#endif
       }
       st.dir_outbits = st.exec_block->direction_bits ^ dir_port_invert_mask;
 
