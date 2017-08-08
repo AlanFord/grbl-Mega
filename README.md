@@ -1,5 +1,7 @@
 ![GitHub Logo](https://github.com/gnea/gnea-Media/blob/master/Grbl%20Logo/Grbl%20Logo%20250px.png?raw=true)
 ***
+### UPDATE - This repository has been modified to support 6-axis operation of grbl.  The Wiki pages refer to the generic 3-axis grbl.
+***
 _Click the `Release` tab to download pre-compiled `.hex` files or just [click here](https://github.com/gnea/grbl-Mega/releases)_
 ***
 
