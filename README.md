@@ -2,8 +2,6 @@
 ***
 ### UPDATE - This repository has been modified to support 6-axis operation of grbl.  The Wiki pages refer to the generic 3-axis grbl.
 ***
-_Click the `Release` tab to download pre-compiled `.hex` files or just [click here](https://github.com/gnea/grbl-Mega/releases)_
-***
 
 Grbl is a no-compromise, high performance, low cost alternative to parallel-port-based motion control for CNC milling. This version of Grbl runs on an Arduino Mega2560 only.
 
